@@ -5,5 +5,5 @@ Please edit the text below so that your name and a link to your personal GitHub 
 Course Roster:
 
 Name:                       Link:
-1. Nick Holt (Instructor) - https://github.com/nick-holt
-2. Nick Holt (instructor) - google.com
+1. Brenden McGale - https://github.com/BrendenMcGale
+2. Brenden McGale - google.com
